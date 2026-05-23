@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo
+# Olá, eu sou o Gustavo 
 
 Estudante de **Análise e Desenvolvimento de Sistemas**.  
 
@@ -31,40 +31,31 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GITGUSH&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GITGUSH&theme=tokyonight&hide_border=true&locale=pt_BR)](https://github.com/GITGUSH)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GITGUSH&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITGUSH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/GITGUSH)
 
 </div>
 
 ---
 
-## Em constante evolução
+## Atualmente me aprofundando em:
 
-Atualmente me aprofundando em:
-
-- **Web & Backend** — construindo projetos do zero pra entender como as coisas realmente funcionam
-- **Ciência de Dados** — explorando Python e suas bibliotecas
-- **Frontend** — porque não basta funcionar, tem que ser iterativo
+- 🌐 **Web & Backend** — construindo projetos do zero pra entender como as coisas realmente funcionam
+- 📊 **Ciência de Dados** — explorando Python e suas bibliotecas
+- 🎨 **Frontend** — porque não basta funcionar, tem que ser bonito também
 
 ---
 
 ## Projetos em destaque
 
-[![CashManager - Backend](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/GITGUSH/cash-manager)
+<div align="center">
 
-[![CashManager - Frontend](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/GITGUSH/cash_manager_web)
+[![cash-manager](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=cash-manager&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/cash-manager)
+[![cash_manager_web](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=cash_manager_web&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/cash_manager_web)
+[![oracle_doc_gen](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=oracle_doc_gen&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/oracle_doc_gen)
 
-[![Oracle Documentation Generator](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/GITGUSH/oracle_doc_gen)
-
----
-
-## Além do código
-
-Quando não estou debugando algo que "deveria funcionar", estou:
-
-- Tocando **guitarra** e compondo instrumentais
-- Jogando videogame 
+</div>
 
 ---
 
