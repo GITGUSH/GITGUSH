@@ -33,7 +33,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GITGUSH&theme=tokyonight&hide_border=true&locale=pt_BR)](https://github.com/GITGUSH)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITGUSH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/GITGUSH)
+[![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GITGUSH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/GITGUSH)
 
 </div>
 
@@ -41,9 +41,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ## Atualmente me aprofundando em:
 
-- 🌐 **Web & Backend** — construindo projetos do zero pra entender como as coisas realmente funcionam
-- 📊 **Ciência de Dados** — explorando Python e suas bibliotecas
-- 🎨 **Frontend** — porque não basta funcionar, tem que ser bonito também
+- **Web & Backend** — construindo projetos do zero pra entender como as coisas realmente funcionam
+- **Ciência de Dados** — explorando Python e suas bibliotecas
+- **Frontend** — porque não basta funcionar, tem que ser bonito também
 
 ---
 
@@ -51,9 +51,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 <div align="center">
 
-[![cash-manager](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=cash-manager&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/cash-manager)
-[![cash_manager_web](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=cash_manager_web&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/cash_manager_web)
-[![oracle_doc_gen](https://github-readme-stats.vercel.app/api/pin/?username=GITGUSH&repo=oracle_doc_gen&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/oracle_doc_gen)
+[![cash-manager](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=GITGUSH&repo=cash-manager&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/cash-manager)
+[![cash_manager_web](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=GITGUSH&repo=cash_manager_web&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/cash_manager_web)
+[![oracle_doc_gen](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=GITGUSH&repo=oracle_doc_gen&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH/oracle_doc_gen)
 
 </div>
 
