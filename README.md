@@ -37,14 +37,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## Atualmente me aprofundando em:
-
-- **Web & Backend** — construindo projetos do zero pra entender como as coisas realmente funcionam
-- **Ciência de Dados** — explorando Python e suas bibliotecas
-- **Frontend** — porque não basta funcionar, tem que ser bonito também
-
----
-
 ## Projetos em destaque
 
 <div align="center">
