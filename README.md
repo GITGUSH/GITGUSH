@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## Tecnologias que uso
+## Tecnologias
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
