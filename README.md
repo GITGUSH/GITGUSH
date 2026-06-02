@@ -51,5 +51,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 ---
 
 <div align="center">
-  <sub>Feito com muito café.</sub>
+  <sub>Obrigado pela atenção!</sub>
 </div>
