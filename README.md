@@ -24,7 +24,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GITGUSH)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GITGUSH&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/GITGUSH) 
 
 [![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GITGUSH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/GITGUSH)
 
