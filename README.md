@@ -4,20 +4,32 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## Tecnologias
+## Technologies
+
+Languages | Frameworks | Database | Data Interchange
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F80000?style=for-the-badge&logo=laravel&logoColor=white)
+![ScriptCase](https://img.shields.io/badge/ScriptCase-0066CC?style=for-the-badge&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-A50AFF?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-ffd343?style=for-the-badge&logo=flask&logoColor=black)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-ffd343?style=for-the-badge&logo=flask&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ScriptCase](https://img.shields.io/badge/ScriptCase-0066CC?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/PgAdmin-607D8B?style=for-the-badge&logo=pgadmin&logoColor=white)
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-FF0A6C?style=for-the-badge&logo=plsql&logoColor=white)
 
 ---
 
