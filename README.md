@@ -18,7 +18,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-ffd343?style=for-the-badge&logo=flask&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ![ScriptCase](https://img.shields.io/badge/ScriptCase-0066CC?style=for-the-badge)
 ![PL/SQL Developer](https://img.shields.io/badge/PL/SQL_Developer-FF0A6C?style=for-the-badge)
 ![PgAdmin4](https://img.shields.io/badge/PgAdmin4-607D8B?style=for-the-badge&logo=pgadmin4&logoColor=white)
