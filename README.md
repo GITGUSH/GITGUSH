@@ -12,6 +12,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FF0A6C?style=for-the-badge)
+![NPGLSQL](https://img.shields.io/badge/NPGLSQL-4169E1?style=for-the-badge)
+
 
 ### Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-F80000?style=for-the-badge&logo=laravel&logoColor=white)
